@@ -1,4 +1,4 @@
-## Hi, I’m Farhanaaz R S 👋
+## 👋 Hi, I’m Farhanaaz R S👩‍🎓 
 
 A 4th-year Software Engineering student at VIT Vellore who’s always hungry to learn new skills and explore creativity through digital content — whether watching or making it!
 
