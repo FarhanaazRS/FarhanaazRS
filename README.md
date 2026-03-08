@@ -28,4 +28,4 @@ My software engineering journey, digital content tips, or UI/UX design? Ask away
 ---
 
 ✨ **Fun fact:**  
-When I’m offline, I’m probably jamming to music, watching movies, or trying out new creative hobbies — because inspiration never stops!
+When I’m offline, I’m probably jamming to music, watching movies, or trying out new creative hobbies because inspiration never stops!
