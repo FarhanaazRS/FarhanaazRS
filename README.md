@@ -1,31 +1,87 @@
-## 👋 Hi, I’m Farhanaaz R S👩‍🎓 
+# Hey, I'm Farhanaaz 👋
 
-A 4th-year Software Engineering student at VIT Vellore who’s always hungry to learn new skills and explore creativity through digital content whether watching or making it!
+```python
+class Farhanaaz:
+    def __init__(self):
+        self.role = "Software Engineering Student @ VIT Vellore"
+        self.current_state = "Turning caffeine into code"
+        self.interests = [
+            "Full-Stack Development",
+            "AI Workflows",
+            "Backend Systems",
+            "Building random ideas at 2 AM"
+        ]
+```
 
----
+### ⚡ About Me
 
-🚀 **What’s keeping me busy these days:**  
-Sharpening my frontend and UI/UX design skills, and diving into cool new web technologies.
-
-🌱 **Currently soaking up:**  
-Advanced JavaScript, React.js magic, and the art of beautiful user experiences.
-
-🤝 **Let’s create together:**  
-I’m open to teaming up on creative web apps and projects that blend design with storytelling.
-
-🧩 **Looking for a hand with:**  
-JavaScript animations and streamlining creative coding workflows.
-
-💬 **Curious about:**  
-My software engineering journey, digital content tips, or UI/UX design? Ask away!
-
-📫 **Catch me here:**  
-📧 farha.naaz3704@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/farhanaaz-syed)  
-📸 [Instagram](https://instagram.com/farhhhh.a)  
-🧵 [Threads](https://www.threads.net/@farhhhh.a)
+* Debugging my life one semicolon at a time
+* Probably building something with React, FastAPI, or Kafka
+* Occasionally convincing myself that `"it works on my machine"` is a valid deployment strategy
+* Interested in AI systems, scalable applications, and cool tech that makes life easier
 
 ---
 
-✨ **Fun fact:**  
-When I’m offline, I’m probably jamming to music, watching movies, or trying out new creative hobbies because inspiration never stops!
+### 🛠 Tech Stack
+
+```yaml
+Languages:
+  - Java
+  - Python
+  - JavaScript
+  - SQL
+
+Frontend:
+  - React.js
+
+Backend:
+  - Node.js
+  - Express.js
+  - FastAPI
+
+Databases:
+  - PostgreSQL
+  - MongoDB
+
+Cloud & Tools:
+  - AWS
+  - Docker
+  - Kafka
+  - Git
+  - Linux
+
+AI:
+  - LangChain
+  - RAG
+  - ChromaDB
+```
+
+---
+
+### 🚀 Stuff I've Built
+
+🧠 **AI Workflow Builder**
+Because manually doing things is overrated.
+
+📊 **FacuLytics**
+Making faculty reviews slightly less chaotic.
+
+📈 **Real-Time Stock Market Analysis**
+Kafka + AWS + sleep deprivation.
+
+---
+
+### 🌐 Find Me Here
+
+💼 LinkedIn: https://linkedin.com/in/farhanaaz-syed
+💻 GitHub: https://github.com/FarhanaazRS
+🌍 Portfolio: https://farhanaaz.in
+
+---
+
+```javascript
+while (!success) {
+    tryAgain();
+    learn();
+}
+```
