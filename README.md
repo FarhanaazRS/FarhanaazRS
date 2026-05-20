@@ -80,8 +80,9 @@ Kafka + AWS + sleep deprivation.
 ---
 
 ```javascript
-while (!success) {
-    tryAgain();
+while (alive) {
     learn();
+    build();
+    improve();
 }
 ```
